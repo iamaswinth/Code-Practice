@@ -1,12 +1,10 @@
-# Bigger is Better   
+# Bigger is Better
 
-![Question 1](https://i.ibb.co/fYKBBfjC/Screenshot-2025-02-19-233309.png)
-
-![Question 2](https://i.ibb.co/nNtNkNKP/Screenshot-2025-02-19-233322.png)
+![Question](https://media-hosting.imagekit.io//4b8430a80a804140/IMG_20250220_000744.jpg?Expires=1834598413&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=uqcMwofB1K-NcKMeOxzZwNvV8tFqEW9shXaa5bKZjAeAPc4JIYErZvF6B5uXdSqOBZYj-gCM8M0eHLbX572BnDZ-GejC7KrMVwxphA2DLXmMx9Y3KesGPyhMt78-GFJTMjz0qNiveTIITbGFmCoDcyofeeP85vkEOd4IcT6VR-RskrefQQHieRNigOvkz107AV1BcBwRKmD4pluQQm78uKrSPf8MGjQopY2xsWDvhHgaERPMpXcH1EqFf3MmEAU~qeEpnDPBBqVvRUrZP-Kk0fIUCrilQd-UhZpnQAXp743Ns~CeOMFArDJrz2W0TCk4Kda7PC4uXdcdpYi8V02bJA__)
 
 ## Code :
 
-``` c++
+```c++
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -62,6 +60,7 @@ int main()
 ```
 
 ## Input
+
 ```
 4
 8
@@ -75,6 +74,7 @@ rallets
 ```
 
 ## Output
+
 ```
 topcoder
 four
