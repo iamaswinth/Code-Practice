@@ -81,7 +81,7 @@ cnt :2
 cnt :1
 
 4
-arr :2 arr :4
+arr :2 arr :4  // After Removing the 1st and 3rd element
 arr :4
 cnt :3
 
@@ -89,6 +89,7 @@ cnt :3
 arr :2 arr :4 arr :5
 cnt :2
 ```
+
 
 ## Explanation :
 
