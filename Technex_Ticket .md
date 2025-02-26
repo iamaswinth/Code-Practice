@@ -2,6 +2,8 @@
 
 ![Technex Ticket](https://media-hosting.imagekit.io//65505ebf62ac4587/IMG_20250226_223619.jpg?Expires=1835199993&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XjTP1RX6jACm5xp1AtoThQ3Ax9ubF4yL6iXK0qmk9H7NHN0hhSSLmC5mD9aYVB2j6efufloyUjskMN3lwltM-01uzbaz6X-61ws9haBH41AszboO2qfRQE9tLL~WvL1klrNr1DxPws8X8PeAYnt1fDxR7494HVqxzk4dhY-hTBiDRFiAwGV0hC9k-EUezeU~OPNZSh1MU4-lc~x7ldoeeBXz91m01HgAuJDrTq7DSMUpO0g417UNrg38sdqv6UL7ku3BhssZQZmbe9TzxRUYuNwxlOTVl2188K~upn17rvTAaxW~K2nkhFjkxnOr0CCwAvCssq3JGhz-iGiqTcCzIQ__)
 
+[Technex Ticket CodeChef](https://www.codechef.com/START175A/problems/P2_175)
+
 ### My Code :
 
 ```c++
